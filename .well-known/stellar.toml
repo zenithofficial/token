@@ -1,1 +1,24 @@
+# Project Zenith
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
+[DOCUMENTATION]
+ORG_NAME="Zenith"
+ORG_DBA="Zenith Token"
+ORG_URL="https://Zenith.top/"
+ORG_LOGO = "https://-.png"
+ORG_OFFICIAL_EMAIL="info@zenith.top"
+ORG_SUPPORT_EMAIL="support@zenith.top"
+ORG_TWITTER="Zenith_Token"
+ORG_DESCRIPTION="Zenith -."
+
+# asset
+[[CURRENCIES]]
+code="ZENITH"
+name = "ZENITH"
+issuer="GDB4C44N6HWBOPP5RAO6PTDRZ4FQZV25AVHAFZX7LZNFWHVLTF75SOMY"
+display_decimals=0
+is_asset_anchored = false
+desc="ZENITH is -. You may be eligible to get ZENITH through airdrop, look out for pending payments."
+image="https://-.png"
+conditions="There will only ever be 100 trillion ZENITH tokens in existence."
